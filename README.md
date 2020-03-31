@@ -1,2 +1,2 @@
 # Be_Hero_OnminiStack11
-Be_Hero_Onministack11
+Aplicativo voltado para Ongs de auxílio desenvolvido em React Native na semana Oministack promovida pela RocketSeat
